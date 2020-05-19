@@ -1,0 +1,15 @@
+current directory: /Users/agomez/code/js-rails-as-api-custom-json-rendering-using-rails-onl01-seng-pt-100619/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+/Users/agomez/.rbenv/versions/2.6.1/bin/ruby -I /Users/agomez/.rbenv/versions/2.6.1/lib/ruby/2.6.0 -r ./siteconf20200518-55529-1el7cq5.rb extconf.rb
+creating Makefile
+
+current directory: /Users/agomez/code/js-rails-as-api-custom-json-rendering-using-rails-onl01-seng-pt-100619/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/agomez/code/js-rails-as-api-custom-json-rendering-using-rails-onl01-seng-pt-100619/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/agomez/code/js-rails-as-api-custom-json-rendering-using-rails-onl01-seng-pt-100619/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20200518-55529-bythy/skiptrace

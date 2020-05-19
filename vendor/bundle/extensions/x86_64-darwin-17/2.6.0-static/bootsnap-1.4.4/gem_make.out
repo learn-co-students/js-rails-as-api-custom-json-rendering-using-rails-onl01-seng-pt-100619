@@ -1,0 +1,15 @@
+current directory: /Users/agomez/code/js-rails-as-api-custom-json-rendering-using-rails-onl01-seng-pt-100619/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+/Users/agomez/.rbenv/versions/2.6.1/bin/ruby -I /Users/agomez/.rbenv/versions/2.6.1/lib/ruby/2.6.0 -r ./siteconf20200518-55529-1m7poma.rb extconf.rb
+creating Makefile
+
+current directory: /Users/agomez/code/js-rails-as-api-custom-json-rendering-using-rails-onl01-seng-pt-100619/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/agomez/code/js-rails-as-api-custom-json-rendering-using-rails-onl01-seng-pt-100619/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/agomez/code/js-rails-as-api-custom-json-rendering-using-rails-onl01-seng-pt-100619/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20200518-55529-1ien0j5/bootsnap
